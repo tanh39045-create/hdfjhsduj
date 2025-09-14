@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Mea+Culpa&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+a:hover{ text-decoration: none}
+.navbar .navbar-nav .nav-link{ 
+	font-weight: 500;
+color: pink; margin: 0 15px}
+.navbar .navbar-nav .nav-link:hover
+{
+	color: #fff
+}
+
+.subtitle
+{
+	font-family: "Mea Culpa", cursive;
+  font-weight: 400;
+  font-style: normal;
+	font-size: 2rem;
+	color: hotpink
+}
+.nav-pills .nav-link { background:#FFB6C1 ; color:#333; margin: 5px 2px}
+.nav-pills .nav-link.active{ background:#1D5FAD ; color:#fff}
